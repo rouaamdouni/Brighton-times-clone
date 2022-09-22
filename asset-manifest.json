@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brighton-times-clone/static/css/main.99fa391f.css",
+    "main.js": "/brighton-times-clone/static/js/main.2a6860ef.js",
+    "static/js/787.1262a360.chunk.js": "/brighton-times-clone/static/js/787.1262a360.chunk.js",
+    "index.html": "/brighton-times-clone/index.html",
+    "main.99fa391f.css.map": "/brighton-times-clone/static/css/main.99fa391f.css.map",
+    "main.2a6860ef.js.map": "/brighton-times-clone/static/js/main.2a6860ef.js.map",
+    "787.1262a360.chunk.js.map": "/brighton-times-clone/static/js/787.1262a360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99fa391f.css",
+    "static/js/main.2a6860ef.js"
+  ]
+}
